@@ -1,0 +1,16 @@
+{
+  "name": "classic-archive-user-service",
+  "version": "1.0.0",
+  "description": "User and favorites server for web dev final project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brennan Dourdoufis",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.12.3"
+  }
+}
